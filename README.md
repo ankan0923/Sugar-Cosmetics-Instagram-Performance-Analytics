@@ -174,4 +174,4 @@ Python · Streamlit · Pandas · NumPy · Plotly · Tableau
 
 ## 👤 Author
 
-**Ankan Chowdhury** · [LinkedIn](www.linkedin.com/in/ankan-chowdhury-440b9532b) · [GitHub](https://github.com/your-username)
+**Ankan Chowdhury** · [LinkedIn](www.linkedin.com/in/ankan-chowdhury-440b9532b) · [Tableau Public](https://public.tableau.com/app/profile/ankan.chowdhury7713/vizzes)
