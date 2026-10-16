@@ -86,6 +86,7 @@ Rates are **weighted aggregates** (ratio of sums), not averages of per-row rates
 ---
 
 ## 🖥️ Streamlit App
+**[Explore the live dashboard](https://mainpy-kwzjzbahmzdna9bjbdceax.streamlit.app/)**
 
 **Tabs**
 
